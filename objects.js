@@ -10,7 +10,7 @@ function updatePlaylist (obj, key, pair ) {
 }
 
 
-removeFromPlaylist () {
+removeFromPlaylist (obj, key) {
   
   
   
