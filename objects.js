@@ -12,6 +12,6 @@ function updatePlaylist (obj, key, pair ) {
 
 function removeFromPlaylist (obj, key) {
   
-  
+  delete playlist.Slowdive;
   
 }
