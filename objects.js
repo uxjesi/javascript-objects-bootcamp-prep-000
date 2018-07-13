@@ -2,8 +2,8 @@ var playlist = {folk: "fleetwoodMac"}
 
 function updatePlaylist (obj, key, pair ) {
       
-    playlist.Alison = 'My Bloody Valentine'      
-      
+    playlist.Slowdive = 'Alison'      
+    playlist.Slowdive = 'Alison'    
       return playlist
   
 }
