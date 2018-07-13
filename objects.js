@@ -3,7 +3,7 @@ var playlist = {folk: "fleetwoodMac"}
 function updatePlaylist (obj, key, pair ) {
       
     playlist.Slowdive = 'Alison'      
-    playlist.My = 'My Bloody Valentine'    
+    playlist.['My Bloody Valentine'] = 'Sometimes'    
       return playlist
   
 }
