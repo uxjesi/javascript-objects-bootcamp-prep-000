@@ -1,9 +1,8 @@
 var playlist = {folk: "fleetwoodMac"}
 
-function updatePlaylist (playlist, 'Alison', 'Slowdive' ) {
+function updatePlaylist (obj, key, pair ) {
       
-      playlist['Alison'] = 'Slowdive'
-      
+    playlist.Alison = 'slowdrive'      
       
       return playlist
   
